@@ -8,7 +8,7 @@
 
 
 
-## How to test the HTTP proxy ?
+## How to test the TCP proxy ?
 
 1. Run the server on a terminal. Keep it running and start a process.
 2. Go to your OS' proxy settings and change the proxy server to localhost
